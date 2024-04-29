@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/h6fmb4m1nbqhul5t?svg=true)](https://ci.appveyor.com/project/gas1995/cardorder)
+[![Build status](https://ci.appveyor.com/api/projects/status/7s11sfoecex60po7?svg=true)](https://ci.appveyor.com/project/gas1995/patterns)
